@@ -1,0 +1,110 @@
+[
+  {
+    "id": "0",
+    "title": "Поставка №1",
+    "startCheckPoint": {
+      "name": "Москва",
+      "location": [37.44076,55.75708]
+    },
+    "finishCheckPoint": {
+      "name": "Саратов",
+      "location": [46.02436,51.46908]
+    }
+  },
+  {
+    "id": "1",
+    "title": "Поставка №2",
+    "startCheckPoint": {
+      "name": "Москва",
+      "location": [37.44076,55.75708]
+    },
+    "finishCheckPoint": {
+      "name": "Казань",
+      "location": [49.15271,55.80818]
+    }
+  },
+  {
+    "id": "2",
+    "title": "Поставка №3",
+    "startCheckPoint": {
+      "name": "Москва",
+      "location": [37.44076,55.75708]
+    },
+    "finishCheckPoint": {
+      "name": "Санкт-Петербург",
+      "location": [30.41040,59.87214]
+    }
+  },
+  {
+    "id": "3",
+    "title": "Поставка №4",
+    "startCheckPoint": {
+      "name": "Москва",
+      "location": [37.44076,55.75708]
+    },
+    "finishCheckPoint": {
+      "name": "Киев",
+      "location":  [30.42926,50.44748]
+    }
+  },
+  {
+    "id": "4",
+    "title": "Поставка №5",
+    "startCheckPoint": {
+      "name": "Саратов",
+      "location":  [ 46.02436,51.46908 ]
+    },
+    "finishCheckPoint": {
+      "name": "Санкт-Петербург",
+      "location": [30.41040,59.87214]
+    }
+  },
+  {
+    "id": "5",
+    "title": "Поставка №6",
+    "startCheckPoint": {
+      "name": "Киев",
+      "location": [30.42926,50.44748]
+    },
+    "finishCheckPoint": {
+      "name": "Казань",
+      "location": [49.15271,55.80818]
+    }
+  },
+  {
+    "id": "6",
+    "title": "Поставка №7",
+    "startCheckPoint": {
+      "name": "Саратов",
+      "location": [ 46.02436,51.46908 ]
+    },
+    "finishCheckPoint": {
+      "name": "Санкт-Петербург",
+      "location": [30.41040,59.87214]
+    }
+  },
+  {
+    "id": "7",
+    "title": "Поставка №8",
+    "startCheckPoint": {
+      "name": "Казань",
+      "location": [49.15271,55.80818]
+    },
+    "finishCheckPoint": {
+      "name": "Санкт-Петербург",
+      "location": [30.41040,59.87214]
+    }
+  },
+  {
+    "id": "1",
+    "title": "Поставка №2",
+    "startCheckPoint": {
+      "name": "Казань",
+      "location": [49.15271,55.80818]
+    },
+    "finishCheckPoint": {
+      "name": "Киев",
+      "location": [30.42926,50.44748]
+    }
+  }
+]
